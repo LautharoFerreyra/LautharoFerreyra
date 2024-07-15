@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautharo</h1>
 <h3 align="center">¡Hola a todos! Soy Lautharo, un estudiante de Ingeniería en Computación apasionado por la programación, el testing y la informática, con un enfoque específico en la automatización de APIs y UI. Me encanta enfrentar desafíos y resolver problemas complejos mediante la aplicación de mis habilidades de programación con Javascript and Typescript. Además, cuento con un nivel de inglés Intermedio, lo que me permite colaborar en proyectos internacionales y comunicarme con personas de todo el mundo.
-Estoy emocionado de formar parte de la comunidad de LinkedIn y compartir conocimientos con todos ustedes. En este momento, estoy buscando oportunidades laborales como Automation Tester con cypress y para poner en práctica mis habilidades y contribuir al éxito de proyectos innovadores.
+Estoy emocionado de formar parte de la comunidad de Github y compartir conocimientos con todos ustedes. En este momento, estoy buscando oportunidades laborales como Automation Tester con cypress y para poner en práctica mis habilidades y contribuir al éxito de proyectos innovadores.
 ¡Gracias por su atención y espero tener la oportunidad de colaborar juntos en el mundo del desarrollo y el testing de software!</h3>
 
 <h3 align="left">Connect with me:</h3>
